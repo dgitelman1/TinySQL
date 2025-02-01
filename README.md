@@ -1,3 +1,8 @@
+# TinySQL
+This is a fork of TinyZero, intended to adapt the Deepseek training method using SQL function calling to enable better text to SQL.
+
+
+
 # TinyZero
 ![image](cover.png)
 
